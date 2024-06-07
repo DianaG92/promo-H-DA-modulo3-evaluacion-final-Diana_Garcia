@@ -52,3 +52,5 @@ Zoom </br>
 <h2> Documentación </h2>
 - La documentación se puede encontrar a lo largo de este repositorio:
 
+https://github.com/DianaG92/promo-H-DA-modulo3-evaluacion-final-Diana_Garcia/blob/main/ejercicio_final_modulo_3.pdf
+
